@@ -1,0 +1,4 @@
+openai~=0.28
+twitchio~=2.8.2
+requests~=2.31.0
+beautifulsoup4~=4.8.0
